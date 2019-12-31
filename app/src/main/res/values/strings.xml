@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="list_is_empty">This list is empty</string>
+</resources>
